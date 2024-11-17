@@ -18,6 +18,43 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/Kalyaan_vs?style=social) 
 [![HackerRank Profile](https://img.shields.io/badge/HackerRank-Kv5286-blue?style=social&logo=hackerrank)](https://www.hackerrank.com/profile/kv5286)
 
-### Top Skills:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![SAS](https://img.shields.io/badge/SAS-00A860?style=for-the-badge&logo=SAS&logoColor=white)
 
+### - Languages and Tools...
+
+<p align="center">
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</p>
+
+
+
+### - What I do
+
+<br />
+
+<p align="center">
+   <img src="https://media.giphy.com/media/ua7vVw9awZKWwLSYpW/giphy.gif" />
+</p>
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+  
+
+
+  
+
+![Kalyaan_vs's github stats](https://github-readme-stats.vercel.app/api?username=Kalyaan-vs&show_icons=true&hide_border=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyaan-vs&layout=compact&theme=dark&hide_border=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kalyaan-vs)](https://github.com/Kalyaan-vs/github-profile-trophy)
+
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
