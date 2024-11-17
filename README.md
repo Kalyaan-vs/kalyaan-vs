@@ -5,3 +5,4 @@
 
 [![Linkedin: Kalyaan vs](https://img.shields.io/badge/-Kalyaan_vs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kalyaan-vs/)](https://www.linkedin.com/in/kalyaan-vs/)
 [![Instagram: Kalyaan vs](https://img.shields.io/badge/-Kalyaan._vs-c13584?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kalyaan._vs/)](https://www.instagram.com/kalyaan._vs/)
+![Twitter Follow](https://img.shields.io/twitter/follow/Kalyaan_vs?style=social) 
