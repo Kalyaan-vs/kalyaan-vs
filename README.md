@@ -1,4 +1,4 @@
-![image alt](https://github.com/Kalyaan-vs/kalyaan-vs/blob/4edc9d883da0a8a1cd15fdd62f6259453782b2b1/github.jpg) 
+![image alt](https://github.com/Kalyaan-vs/kalyaan-vs/blob/af47818de11e0b386a9be0282ca269c6d90f6249/Blue%20and%20Black%20Gradient%20Modern%20Graphic%20Designer%20LinkedIn%20Banner.png) 
 
 ## Hi there! 👋 I'm Kalyaan VS
 ## Bachelor of Technology | Computer Science Major at SRM University | Class of 2026.
