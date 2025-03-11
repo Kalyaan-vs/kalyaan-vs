@@ -51,7 +51,7 @@
 ![Kalyaan_vs's github stats](https://github-readme-stats.vercel.app/api?username=Kalyaan-vs&show_icons=true&hide_border=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyaan-vs&layout=compact&theme=dark&hide_border=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kalyaan-vs)](https://github.com/Kalyaan-vs/github-profile-trophy)
+
 
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
