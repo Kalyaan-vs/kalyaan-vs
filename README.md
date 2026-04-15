@@ -43,18 +43,7 @@
 </p>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
-  
 
-
-  
-
-![Kalyaan_vs's github stats](https://github-readme-stats.vercel.app/api?username=Kalyaan-vs&show_icons=true&hide_border=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyaan-vs&layout=compact&theme=dark&hide_border=true)
-
-
-
-
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
